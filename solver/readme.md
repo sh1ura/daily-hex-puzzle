@@ -16,6 +16,8 @@ The program is written in standard C. To compile it, just run `make` in UNIX env
 
 ## Configuration
 
+in `solver.c`, some config parameters there.
+
 ```
 #define FIND_ALL_SOLUTIONS 0
 #define SHOW_FIELD 1
