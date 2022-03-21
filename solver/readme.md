@@ -25,3 +25,23 @@ in `solver.c`, some config parameters there.
 
 * `FIND_ALL_SOLUTIONS` : switch to show the all solutions for each day(or just one solution)
 * `SHOW_FIELD` : Show the solution (or just count the number of solutions)
+
+## Algorithm
+
+### Representation
+
+* Hexagonal map is represented by usual 2-dimensional array.
+* Some elements (at top-right and bottom-left) are outside of the map.
+* 60deg rotation of the map is possible by linear transformation.
+* By the combination of 60deg rotation and mirror transformation (transpose of matrix) make it possible to generate 12way poses of the pieces.
+
+![スライド1](https://user-images.githubusercontent.com/86639425/159246601-a743e4ad-03d5-4c60-bbd7-1d96e4da48be.jpeg)
+
+### Search algorithm
+
+Blute-force search is done by recursive algorithm as follows.
+
+1. Search empty cell from top left.
+2. Try to fill the empty cell by using all possible poses and positions of all remaining (unused) pieces.
+3. If the empty cell can be filled by the piece without collisions, place the piece there.
+4. If there is still unused piece, repeat ( = recursive call of) the process from 1.
