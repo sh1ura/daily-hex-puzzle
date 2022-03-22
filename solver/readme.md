@@ -26,6 +26,11 @@ in `solver.c`, some config parameters there.
 * `FIND_ALL_SOLUTIONS` : switch to show the all solutions for each day(or just one solution)
 * `SHOW_FIELD` : Show the solution (or just count the number of solutions)
 
+## How to compile
+
+* In the UNIX like environment, just run make in the folder.
+* Here I do not use separate compilation / link scheme but just direct #include -ing of several C sources for simplicity.
+
 ## Algorithm
 
 ### Representation
