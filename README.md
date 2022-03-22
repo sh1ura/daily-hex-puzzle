@@ -14,3 +14,11 @@ A hexagonal grid puzzle like the genius [A Puzzle A Day](https://www.dragonfjord
 
 ### Improved (symmetric) version
 ![スクリーンショット 2022-03-21 23 55 04](https://user-images.githubusercontent.com/86639425/159288113-da480d2c-e379-441a-a78a-f9a67233b0ba.jpg)
+
+### Statistics
+
+Solutions of symmetric version
+* sum of all solutions : 1248866
+* minimum solutions : 33 on Mar 30 Sat, Oct 30 Thu
+* maximum solutions : 1516 on May 4 Fri, Aug 3 Fri
+* average number of solutions : 479.6
