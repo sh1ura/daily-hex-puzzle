@@ -1,7 +1,3 @@
-# 3D model
-
-* board2.stl is the improved version with better symmetry. 
-
 ## Printing tips
 
 To give a different color to the texts and grid lines, use "Pause at height" function of Cura slicer (see the picture below) to switch the material during 3D print. Change the material at height=1.5mm.
