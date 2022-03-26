@@ -6,12 +6,16 @@ The program is written in standard C. To compile it, just run `make` in UNIX env
 
 * Solve the puzzle on specified day
 ```
-./solver Sep 1 Fri
+./solver43 Sep 1
+```
+or 
+```
+./solver61 Sep 1 Fri
 ```
 
-* Solve the puzzle for the all month/date/day combinations
+* Solve the puzzle for the all month/date/day combinations (NN = 43 or 61)
 ```
-./solver
+./solverNN
 ```
 
 ## Configuration
