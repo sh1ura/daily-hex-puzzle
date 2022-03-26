@@ -2,17 +2,10 @@
 
 A hexagonal grid puzzle like the genius [A Puzzle A Day](https://www.dragonfjord.com/product/a-puzzle-a-day/). 
 
-* You can enjoy the puzzle with 2604 ways ( 2604 = 12 months x 31 dates x 7 day of the week ).
+* You can enjoy the puzzle every day.
 * Using the solver program, I confirmed there is at least one solution for every case.
 
-![blue2s](https://user-images.githubusercontent.com/86639425/159890207-345e0a6f-cf5a-4aae-a1e7-f1b55477a540.jpg)
+![twos](https://user-images.githubusercontent.com/86639425/160240637-bd596194-aeb0-4a33-8ce1-047b24ac6391.jpg)
 
-![スクリーンショット 2022-03-24 1 10 03](https://user-images.githubusercontent.com/86639425/159744905-7e96b5de-418b-4470-95d4-b50779221c5a.jpg)
-![スクリーンショット 2022-03-24 1 09 57](https://user-images.githubusercontent.com/86639425/159744922-e873e5a1-df7c-456e-8698-69f93c678abc.jpg)
-
-### Statistics
-
-* sum of all solutions : 1248866
-* minimum solutions : 33 on Mar 30 Sat, Oct 30 Thu
-* maximum solutions : 1516 on May 4 Fri, Aug 3 Fri
-* average number of solutions : 479.6
+![ss-twos](https://user-images.githubusercontent.com/86639425/160240657-ea850562-6e41-4a3c-a31c-401118102dfb.jpg)
+![two-sym](https://user-images.githubusercontent.com/86639425/160240662-4750d954-3689-4ada-a098-f406767a54ca.jpg)
