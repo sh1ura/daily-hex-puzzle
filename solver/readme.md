@@ -32,7 +32,7 @@ in `solver.c`, some config parameters there.
 
 ## How to compile
 
-* In the UNIX like environment, just run make in the folder.
+* In the UNIX like environment, just run `make` in the folder.
 * Here I do not use separate compilation / link scheme but just direct #include -ing of several C sources for simplicity.
 
 ## Algorithm
