@@ -9,3 +9,4 @@ A hexagonal grid puzzle like the genius [A Puzzle A Day](https://www.dragonfjord
 
 ![ss-twos](https://user-images.githubusercontent.com/86639425/160240657-ea850562-6e41-4a3c-a31c-401118102dfb.jpg)
 ![two-sym](https://user-images.githubusercontent.com/86639425/160240662-4750d954-3689-4ada-a098-f406767a54ca.jpg)
+![43v2s](https://user-images.githubusercontent.com/86639425/160533646-ec43ba7a-1fba-483d-b0c9-895b62a3d31d.jpg)
