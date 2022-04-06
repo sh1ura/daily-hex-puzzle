@@ -4,6 +4,7 @@ A hexagonal grid puzzle like the genius [A Puzzle A Day](https://www.dragonfjord
 
 * You can enjoy the puzzle every day.
 * Using the solver program, I confirmed there is at least one solution for every case.
+* The smaller versions (43cells ver.1 and ver.2) can be solved without flipping pieces.
 
 ![twos](https://user-images.githubusercontent.com/86639425/160240637-bd596194-aeb0-4a33-8ce1-047b24ac6391.jpg)
 
