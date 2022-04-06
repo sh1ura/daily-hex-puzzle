@@ -7,7 +7,7 @@ All you need is common 3D printers (you do not need multi-material printers).
 
 If the part does not fit into the build table of your printer, you can shrink them a bit.
 
-##note
+## note
 
 * **If you use "piece43.stl" for "board43-ver2.stl", there are some unsolvable days. Please use "piece43-ver2.stl" for "board43-ver2.stl".** (Contrary, you can use "piece43-ver2.stl" for "board43.stl".)**
 * **The smaller version can be solved without flipping pieces.** If you do so, the puzzle would be very difficult to solve. If you try to do it, please print the pieces with two layers to distinguish top and bottom surfaces.
