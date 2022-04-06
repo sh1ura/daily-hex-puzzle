@@ -25,10 +25,12 @@ in `solver.c`, some config parameters there.
 ```
 #define FIND_ALL_SOLUTIONS 0
 #define SHOW_FIELD 1
+#define FLIP_PIECE 0
 ```
 
 * `FIND_ALL_SOLUTIONS` : switch to show the all solutions for each day(or just one solution)
 * `SHOW_FIELD` : Show the solution (or just count the number of solutions)
+* `FLIP_PIECE` : Solve the puzzle with or without flipping pieces
 
 ## How to compile
 
