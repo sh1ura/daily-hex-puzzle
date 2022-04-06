@@ -2,6 +2,10 @@
 
 The program is written in standard C. To compile it, just run `make` in UNIX environment.
 
+## Solutions
+
+* The solutions for smaller versions (`solutions43-noflip.txt` and `solutions43-2-noflip.txt`) are solved without flipping pieces.
+
 ## Usage
 
 * Solve the puzzle on specified day
