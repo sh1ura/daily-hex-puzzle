@@ -1,0 +1,3720 @@
+Jan 1
+              B            
+           A d B m        
+        J A A B B C C    
+         J A A D E C    
+        G J J D F E C  
+         G G D F F E  
+        G H D H F I E
+           H H I I  
+              I    
+Jan 2
+              B            
+           B B d m        
+        A A B D D D D    
+         A A E E E E    
+        G A C C J J J  
+         G G C J H H  
+        G F F C H I H
+           F F I I  
+              I    
+Jan 3
+              A            
+           B A A m        
+        J d B A A C C    
+         J B B D E C    
+        G J J D F E C  
+         G G D F F E  
+        G H D H F I E
+           H H I I  
+              I    
+Jan 4
+              A            
+           G A A m        
+        G G d A A B B    
+         F G C D E B    
+        F F C C D E B  
+         F C J J D E  
+        I I H H J D E
+           I I H J  
+              H    
+Jan 5
+              B            
+           H B B m        
+        I H B d J J J    
+         I H H J F F    
+        I D D D D F F  
+         I G A A E C  
+        G G A A E C C
+           G A E C  
+              E    
+Jan 6
+              A            
+           G A A m        
+        G G A A d B B    
+         F G C D E B    
+        F F C C D E B  
+         F C J J D E  
+        I I H H J D E
+           I I H J  
+              H    
+Jan 7
+              A            
+           B A A m        
+        B B C A A d G    
+         B C C C G G    
+        D D D D J J G  
+         E E E E F J  
+        I I H H F F J
+           I I H F  
+              H    
+Jan 8
+              A            
+           G A A m        
+        G G A A J J J    
+         d G B J F F    
+        C B B D E F F  
+         C B D E H H  
+        C C D E H I H
+           D E I I  
+              I    
+Jan 9
+              A            
+           B A A m        
+        B B D A A H H    
+         B d D E H I    
+        G J J D E H I  
+         G G J D E I  
+        G F F J C E I
+           F F C C  
+              C    
+Jan 10
+              A            
+           G A A m        
+        G G A A B B B    
+         H G d I I B    
+        H D D D D I I  
+         H H J J F F  
+        E E E E J F F
+           C C C J  
+              C    
+Jan 11
+              A            
+           D A A m        
+        B B D A A C C    
+         B J D d E C    
+        G B J D H E C  
+         G G J J H E  
+        G F F H H I E
+           F F I I  
+              I    
+Jan 12
+              A            
+           H A A m        
+        B H A A J J J    
+         B H H J d I    
+        B B D D D D I  
+         C E E E E I  
+        C C C G F F I
+           G G F F  
+              G    
+Jan 13
+              A            
+           J A A m        
+        D E J A A H H    
+         D E J J H d    
+        B D E C C H G  
+         B D E C G G  
+        B B F F C I G
+           F F I I  
+              I    
+Jan 14
+              A            
+           B A A m        
+        B B A A J J J    
+         B D E J H H    
+        G d D E H C C  
+         G G D E H C  
+        G F F D E I C
+           F F I I  
+              I    
+Jan 15
+              A            
+           H A A m        
+        D H A A J J J    
+         D H H J F F    
+        B D d E F F G  
+         B D E C G G  
+        B B E C C I G
+           E C I I  
+              I    
+Jan 16
+              A            
+           G A A m        
+        G G A A I F F    
+         D G I I F F    
+        B D I d J J J  
+         B D H J E C  
+        B B D H E C C
+           H H E C  
+              E    
+Jan 17
+              A            
+           B A A m        
+        B B A A J H H    
+         B J J J H I    
+        D D D D d H I  
+         C E E E E I  
+        C C C G F F I
+           G G F F  
+              G    
+Jan 18
+              A            
+           G A A m        
+        G G A A J J J    
+         B G H J H I    
+        B B B H H d I  
+         D D D D F I  
+        E E E E F F I
+           C C C F  
+              C    
+Jan 19
+              A            
+           B A A m        
+        B B A A C C C    
+         B D D D D C    
+        E E E E J J J  
+         d G F J H H  
+        G G F F H I H
+           G F I I  
+              I    
+Jan 20
+              A            
+           H A A m        
+        J H A A D B B    
+         J H H I D B    
+        C J J E I D B  
+         C d E I G D  
+        C C E F I G G
+           E F F G  
+              F    
+Jan 21
+              A            
+           G A A m        
+        G G A A B B B    
+         F G J J J B    
+        F F J D D D D  
+         F H d H E C  
+        I I H H E C C
+           I I E C  
+              E    
+Jan 22
+              A            
+           B A A m        
+        B B A A C C C    
+         B D D D D C    
+        G J J E E E E  
+         G G J d H H  
+        G F F J H I H
+           F F I I  
+              I    
+Jan 23
+              A            
+           G A A m        
+        G G A A I F F    
+         D G I I F F    
+        B D I E E E E  
+         B D H J d C  
+        B B D H J C C
+           H H J C  
+              J    
+Jan 24
+              A            
+           G A A m        
+        G G A A D B B    
+         F G J D E B    
+        F F J D E H B  
+         F J D E H d  
+        I I J E C H H
+           I I C C  
+              C    
+Jan 25
+              A            
+           B A A m        
+        B B A A C C C    
+         B D D D D C    
+        E E E E H H G  
+         J J J H G G  
+        J d F F H I G
+           F F I I  
+              I    
+Jan 26
+              A            
+           B A A m        
+        B B A A J F F    
+         B J J J F F    
+        G I I D D D D  
+         G G I I E C  
+        G H d H E C C
+           H H E C  
+              E    
+Jan 27
+              A            
+           B A A m        
+        B B A A C C C    
+         B D D D D C    
+        E E E E H H G  
+         J J J H G G  
+        J F F d H I G
+           F F I I  
+              I    
+Jan 28
+              A            
+           B A A m        
+        B B A A J C C    
+         B J J J D C    
+        E E E E I D C  
+         F F I I H D  
+        F F I G d H D
+           G G H H  
+              G    
+Jan 29
+              A            
+           B A A m        
+        B B A A C C C    
+         B D D D D C    
+        F F E E E E G  
+         F F J J G G  
+        I I H H J d G
+           I I H J  
+              H    
+Jan 30
+              A            
+           H A A m        
+        J H A A D B B    
+         J H H D E B    
+        C J J D F E B  
+         C G D F F E  
+        C C G G F I E
+           G d I I  
+              I    
+Jan 31
+              A            
+           D A A m        
+        F F D A A H H    
+         F F D E H I    
+        B B B D E H I  
+         C B J J E I  
+        C C C G J E I
+           G G d J  
+              G    
+Feb 1
+              B            
+           A d B D        
+        C A A B B D m    
+         C A A G E D    
+        C C G G H E D  
+         J J J G H E  
+        J F F H H I E
+           F F I I  
+              I    
+Feb 2
+              B            
+           B B d A        
+        D H B H A A m    
+         D H H A A I    
+        C D E E E E I  
+         C D J J J I  
+        C C J G F F I
+           G G F F  
+              G    
+Feb 3
+              A            
+           B A A D        
+        C d B A A D m    
+         C B B G E D    
+        C C G G H E D  
+         J J J G H E  
+        J F F H H I E
+           F F I I  
+              I    
+Feb 4
+              A            
+           B A A D        
+        B B d A A D m    
+         B C H H E D    
+        C C H J H E D  
+         C G J F F E  
+        G G J F F I E
+           G J I I  
+              I    
+Feb 5
+              B            
+           A B B B        
+        J A A d D C m    
+         J A A D E C    
+        G J J D E C C  
+         G G D E H H  
+        G F F E H I H
+           F F I I  
+              I    
+Feb 6
+              A            
+           B A A D        
+        B B A A d D m    
+         B C H H E D    
+        C C H J H E D  
+         C G J F F E  
+        G G J F F I E
+           G J I I  
+              I    
+Feb 7
+              A            
+           H A A D        
+        E H A A D d m    
+         E H H D F F    
+        B E J D F F G  
+         B E J C G G  
+        B B J C C I G
+           J C I I  
+              I    
+Feb 8
+              A            
+           G A A D        
+        G G A A D B m    
+         d G J D B B    
+        J J J D B C C  
+         E E E E F C  
+        I I H H F F C
+           I I H F  
+              H    
+Feb 9
+              A            
+           B A A D        
+        B B A A G D m    
+         B d G G E D    
+        F F J J G E D  
+         F F I J H E  
+        C C C I J H E
+           C I H H  
+              I    
+Feb 10
+              A            
+           G A A B        
+        G G A A D B m    
+         F G d D B B    
+        F F H D J J J  
+         F H D J E C  
+        I I H H E C C
+           I I E C  
+              E    
+Feb 11
+              A            
+           G A A D        
+        G G A A E D m    
+         F G B d E D    
+        F F H B J E D  
+         F H B B J E  
+        I I H H C J J
+           I I C C  
+              C    
+Feb 12
+              A            
+           B A A D        
+        B B A A E D m    
+         B C J E d D    
+        C C J E H H D  
+         C J E H F F  
+        I I J G H F F
+           I I G G  
+              G    
+Feb 13
+              A            
+           G A A D        
+        G G A A D H m    
+         F G J D H d    
+        F F J D B H H  
+         F J B B E C  
+        I I J B E C C
+           I I E C  
+              E    
+Feb 14
+              A            
+           B A A D        
+        B B A A C D m    
+         B J C C E D    
+        G d J C H E D  
+         G G J J H E  
+        G F F H H I E
+           F F I I  
+              I    
+Feb 15
+              A            
+           B A A D        
+        B B A A E D m    
+         B C C C E D    
+        F F d C J E D  
+         F F H H J E  
+        I I H G H J J
+           I I G G  
+              G    
+Feb 16
+              A            
+           B A A D        
+        B B A A E D m    
+         B C H H E D    
+        C C H d H E D  
+         C F F J G E  
+        I I F F J G G
+           I I J G  
+              J    
+Feb 17
+              A            
+           G A A D        
+        G G A A I D m    
+         J G I I E D    
+        B J I H d E D  
+         B J J H F E  
+        B B H H F F E
+           C C C F  
+              C    
+Feb 18
+              A            
+           B A A D        
+        B B A A I D m    
+         B F F E I D    
+        G F F E I d D  
+         G G E J I C  
+        G H E H J C C
+           H H J C  
+              J    
+Feb 19
+              A            
+           B A A D        
+        B B A A E D m    
+         B F F H E D    
+        J J F F H E D  
+         d J H H C E  
+        I I J G C C C
+           I I G G  
+              G    
+Feb 20
+              A            
+           B A A D        
+        B B A A E D m    
+         B C F F E D    
+        C C F F J E D  
+         C d H H J E  
+        I I H G H J J
+           I I G G  
+              G    
+Feb 21
+              A            
+           B A A D        
+        B B A A E D m    
+         B C F F E D    
+        C C H F F E D  
+         C H d J G E  
+        I I H H J G G
+           I I J G  
+              J    
+Feb 22
+              A            
+           B A A D        
+        B B A A J D m    
+         B J J J E D    
+        G C C C H E D  
+         G G C d H E  
+        G F F H H I E
+           F F I I  
+              I    
+Feb 23
+              A            
+           B A A D        
+        B B A A G D m    
+         B H G G E D    
+        C H J J G E D  
+         C H H J d E  
+        C C F F J I E
+           F F I I  
+              I    
+Feb 24
+              A            
+           H A A D        
+        I H A A D B m    
+         I H H D J B    
+        I F F D J B B  
+         I F F J G d  
+        E E E E J G G
+           C C C G  
+              C    
+Feb 25
+              A            
+           H A A D        
+        B H A A E D m    
+         B H H C E D    
+        B B I C C E D  
+         I I C J G E  
+        I d F F J G G
+           F F J G  
+              J    
+Feb 26
+              A            
+           B A A D        
+        B B A A E D m    
+         B J J J E D    
+        H J H F F E D  
+         H H F F C E  
+        I I d G C C C
+           I I G G  
+              G    
+Feb 27
+              A            
+           H A A D        
+        B H A A E D m    
+         B H H C E D    
+        B B I C C E D  
+         I I C J G E  
+        I F F d J G G
+           F F J G  
+              J    
+Feb 28
+              A            
+           B A A D        
+        B B A A E D m    
+         B C F F E D    
+        C C F F J E D  
+         C J J J G E  
+        I I H H d G G
+           I I H G  
+              H    
+Feb 29
+              A            
+           G A A D        
+        G G A A J D m    
+         H G H J E D    
+        B H H J I E D  
+         B F F J I E  
+        B B F F I d E
+           C C C I  
+              C    
+Feb 30
+              A            
+           B A A D        
+        B B A A J D m    
+         B F F J E D    
+        G F F J H E D  
+         G G C J H E  
+        G C C H H I E
+           C d I I  
+              I    
+Feb 31
+              A            
+           D A A E        
+        I B D A A E m    
+         I B D F F E    
+        I B B D F F E  
+         I G J J J C  
+        G G J H H C C
+           G H d C  
+              H    
+Mar 1
+              B            
+           A d B H        
+        I A A B B H D    
+         I A A H H D    
+        I E E E E D m  
+         I G F J D C  
+        G G F F J C C
+           G F J C  
+              J    
+Mar 2
+              B            
+           B B d A        
+        I H B H A A D    
+         I H H A A D    
+        I E E E E D m  
+         I G F J D C  
+        G G F F J C C
+           G F J C  
+              J    
+Mar 3
+              A            
+           B A A H        
+        I d B A A H D    
+         I B B H H D    
+        I E E E E D m  
+         I G F J D C  
+        G G F F J C C
+           G F J C  
+              J    
+Mar 4
+              B            
+           C B B B        
+        C C d D D D D    
+         C E E E E J    
+        A A A J J J m  
+         A A H H F F  
+        I I H G H F F
+           I I G G  
+              G    
+Mar 5
+              B            
+           A B B B        
+        J A A d C C C    
+         J A A D E C    
+        G J J D F E m  
+         G G D F F E  
+        G H D H F I E
+           H H I I  
+              I    
+Mar 6
+              B            
+           A B B B        
+        I A A H d H D    
+         I A A H H D    
+        I E E E E D m  
+         I G F J D C  
+        G G F F J C C
+           G F J C  
+              J    
+Mar 7
+              A            
+           H A A D        
+        I H A A D d J    
+         I H H D E J    
+        I F F D E J m  
+         I F F E G J  
+        B B B E C G G
+           B C C G  
+              C    
+Mar 8
+              A            
+           G A A B        
+        G G A A B B B    
+         d G J C C C    
+        J J J D E C m  
+         F F D E H H  
+        F F D E H I H
+           D E I I  
+              I    
+Mar 9
+              B            
+           C B B B        
+        C C D E E E E    
+         C d D A A A    
+        G J J D A A m  
+         G G J D H H  
+        G F F J H I H
+           F F I I  
+              I    
+Mar 10
+              B            
+           F B B B        
+        I F F D D D D    
+         I F d A A A    
+        I H H J A A m  
+         I G H J E C  
+        G G H J E C C
+           G J E C  
+              E    
+Mar 11
+              A            
+           D A A G        
+        I E D A A G G    
+         I E D d G B    
+        I H E D B B m  
+         I H E J B C  
+        H H F F J C C
+           F F J C  
+              J    
+Mar 12
+              A            
+           H A A B        
+        I H A A B B D    
+         I H H B d D    
+        I E E E E D m  
+         I G F J D C  
+        G G F F J C C
+           G F J C  
+              J    
+Mar 13
+              A            
+           G A A B        
+        G G A A B B B    
+         F G C D E d    
+        F F C C D E m  
+         F C J J D E  
+        I I H H J D E
+           I I H J  
+              H    
+Mar 14
+              B            
+           A B B B        
+        I A A D C C C    
+         I A A D E C    
+        I d H H D E m  
+         I H J H D E  
+        J J J G F F E
+           G G F F  
+              G    
+Mar 15
+              A            
+           G A A B        
+        G G A A B B B    
+         F G D D D D    
+        F F d J J J m  
+         F H J H E C  
+        I I H H E C C
+           I I E C  
+              E    
+Mar 16
+              A            
+           G A A B        
+        G G A A B B B    
+         C G D D D D    
+        C C C d J J m  
+         E E E E F J  
+        I I H H F F J
+           I I H F  
+              H    
+Mar 17
+              A            
+           H A A G        
+        I H A A J G G    
+         I H H J G D    
+        I F F J d D m  
+         I F F J D B  
+        E E E E D B B
+           C C C B  
+              C    
+Mar 18
+              B            
+           A B B B        
+        I A A D D D D    
+         I A A J J J    
+        I H H J E d m  
+         I G H E F F  
+        G G H E C F F
+           G E C C  
+              C    
+Mar 19
+              A            
+           B A A C        
+        B B A A C C C    
+         B G D D D D    
+        G G E E E E m  
+         d G J J F F  
+        I I H H J F F
+           I I H J  
+              H    
+Mar 20
+              A            
+           H A A D        
+        J H A A D F F    
+         J H H D F F    
+        B J J D I E m  
+         B d I I E C  
+        B B I G E C C
+           G G E C  
+              G    
+Mar 21
+              A            
+           H A A D        
+        B H A A D E J    
+         B H H D E J    
+        B B I D E J m  
+         I I d E C J  
+        I F F G C C C
+           F F G G  
+              G    
+Mar 22
+              A            
+           G A A B        
+        G G A A B B B    
+         F G D D D D    
+        F F H J J J m  
+         F H J d E C  
+        I I H H E C C
+           I I E C  
+              E    
+Mar 23
+              B            
+           B B H H        
+        C C B H A A A    
+         C D E H A A    
+        G C D E J J m  
+         G G D E d J  
+        G F F D E I J
+           F F I I  
+              I    
+Mar 24
+              B            
+           A B B B        
+        C A A D D D D    
+         C A A E F F    
+        C C I E F F m  
+         I I E J G d  
+        I H E H J G G
+           H H J G  
+              J    
+Mar 25
+              B            
+           D B B B        
+        C C D E E E E    
+         C J D A A A    
+        G C J D A A m  
+         G G J J H H  
+        G d F F H I H
+           F F I I  
+              I    
+Mar 26
+              A            
+           B A A G        
+        B B A A J G G    
+         B J J J G I    
+        D D D D I I m  
+         F F H I E C  
+        F F d H E C C
+           H H E C  
+              E    
+Mar 27
+              A            
+           H A A D        
+        I H A A D E J    
+         I H H D E J    
+        I F F D E J m  
+         I F F E G J  
+        B B B d C G G
+           B C C G  
+              C    
+Mar 28
+              A            
+           B A A D        
+        B B A A D E J    
+         B C C D E J    
+        F F C D E J m  
+         F F C E G J  
+        I I H H d G G
+           I I H G  
+              H    
+Mar 29
+              A            
+           B A A C        
+        B B A A C C C    
+         B D D D D I    
+        E E E E I I m  
+         J J J I H H  
+        J F F G H d H
+           F F G G  
+              G    
+Mar 30
+              A            
+           H A A D        
+        I H A A D E J    
+         I H H D E J    
+        I F F D E J m  
+         I F F E B J  
+        C C C G B B B
+           C d G G  
+              G    
+Mar 31
+              B            
+           A B B B        
+        I A A D D D D    
+         I A A F F E    
+        I H H F F E m  
+         I G H J E C  
+        G G H J E C C
+           G J d C  
+              J    
+Apr 1
+              B            
+           A d B G        
+        I A A B B G G    
+         I A A H G H    
+        I F F J H H D  
+         I F F J E D  
+        C C C J E D m
+           C J E D  
+              E    
+Apr 2
+              B            
+           B B d A        
+        I C B H A A D    
+         I C H A A D    
+        I C C H H D E  
+         I G F J D E  
+        G G F F J E m
+           G F J E  
+              J    
+Apr 3
+              A            
+           B A A G        
+        I d B A A G G    
+         I B B H G H    
+        I F F J H H D  
+         I F F J E D  
+        C C C J E D m
+           C J E D  
+              E    
+Apr 4
+              A            
+           B A A G        
+        B B d A A G G    
+         B C F F G D    
+        C C F F J D E  
+         C J J J D E  
+        I I H H D E m
+           I I H E  
+              H    
+Apr 5
+              B            
+           A B B B        
+        C A A d F F D    
+         C A A F F D    
+        C C G H H D E  
+         G G H J D E  
+        I I G H J E m
+           I I J E  
+              J    
+Apr 6
+              A            
+           B A A G        
+        B B A A d G G    
+         B C F F G D    
+        C C F F J D E  
+         C J J J D E  
+        I I H H D E m
+           I I H E  
+              H    
+Apr 7
+              A            
+           G A A J        
+        G G A A J d B    
+         F G C J B B    
+        F F H C J B D  
+         F H C C E D  
+        I I H H E D m
+           I I E D  
+              E    
+Apr 8
+              A            
+           G A A B        
+        G G A A B B B    
+         d G D D D D    
+        F F E E E E C  
+         F F J J C C  
+        I I H H J C m
+           I I H J  
+              H    
+Apr 9
+              A            
+           B A A G        
+        B B I A A G G    
+         B d I H G H    
+        F F I J H H D  
+         F F I J E D  
+        C C C J E D m
+           C J E D  
+              E    
+Apr 10
+              A            
+           G A A D        
+        G G A A D H H    
+         B G d D H J    
+        B B B D I H J  
+         E E E E I J  
+        C C C F I J m
+           C F F I  
+              F    
+Apr 11
+              A            
+           B A A F        
+        B B A A F F D    
+         B C G d F D    
+        C C H G G D E  
+         C H G J D E  
+        I I H H J E m
+           I I J E  
+              J    
+Apr 12
+              A            
+           B A A D        
+        B B A A D C C    
+         B F F D d C    
+        G F F D I J C  
+         G G I I E J  
+        G H I H E J m
+           H H E J  
+              E    
+Apr 13
+              A            
+           B A A G        
+        B B A A H G G    
+         B C J H G d    
+        C C J F H H D  
+         C J F F E D  
+        I I J F E D m
+           I I E D  
+              E    
+Apr 14
+              A            
+           G A A B        
+        G G A A B B B    
+         H G D D D D    
+        H d E E E E J  
+         H H I J J J  
+        C C C I F F m
+           C I F F  
+              I    
+Apr 15
+              A            
+           B A A G        
+        B B A A J G G    
+         B J J J G I    
+        C H d H I I D  
+         C H H I E D  
+        C C F F E D m
+           F F E D  
+              E    
+Apr 16
+              A            
+           B A A J        
+        B B A A I J D    
+         B C I I J D    
+        C C I d J D E  
+         C G H H D E  
+        G G H F H E m
+           G F F E  
+              F    
+Apr 17
+              A            
+           B A A G        
+        B B A A C G G    
+         B J C C G D    
+        F F J C d D E  
+         F F J J D E  
+        I I H H D E m
+           I I H E  
+              H    
+Apr 18
+              A            
+           B A A C        
+        B B A A C C C    
+         B F F J J J    
+        G F F J I d D  
+         G G I I E D  
+        G H I H E D m
+           H H E D  
+              E    
+Apr 19
+              A            
+           B A A C        
+        B B A A C C C    
+         B G J J J D    
+        G G J F F D E  
+         d G F F D E  
+        I I H H D E m
+           I I H E  
+              H    
+Apr 20
+              A            
+           G A A B        
+        G G A A B B B    
+         F G D D D D    
+        F F E E E E C  
+         F d J J C C  
+        I I H H J C m
+           I I H J  
+              H    
+Apr 21
+              A            
+           B A A G        
+        B B A A J G G    
+         B J J J G D    
+        F F C C C D E  
+         F F d C D E  
+        I I H H D E m
+           I I H E  
+              H    
+Apr 22
+              A            
+           B A A G        
+        B B A A I G G    
+         B H I I G J    
+        C H I J J J D  
+         C H H d E D  
+        C C F F E D m
+           F F E D  
+              E    
+Apr 23
+              A            
+           B A A C        
+        B B A A C C C    
+         B D D D D J    
+        F F E E E E J  
+         F F H H d J  
+        I I H G H J m
+           I I G G  
+              G    
+Apr 24
+              B            
+           A B B B        
+        I A A D D D D    
+         I A A E F F    
+        I H H J E F F  
+         I G H J E d  
+        G G H J C E m
+           G J C C  
+              C    
+Apr 25
+              A            
+           H A A B        
+        J H A A B B I    
+         J H H B I I    
+        G J J D I C E  
+         G G D C C E  
+        G d D F C E m
+           D F F E  
+              F    
+Apr 26
+              A            
+           B A A C        
+        B B A A C C D    
+         B F F C I D    
+        G F F I I D E  
+         G G I J D E  
+        G H d H J E m
+           H H J E  
+              J    
+Apr 27
+              A            
+           H A A F        
+        B H A A F F D    
+         B H H C F D    
+        B B G C C D E  
+         G G C J D E  
+        I I G d J E m
+           I I J E  
+              J    
+Apr 28
+              A            
+           B A A C        
+        B B A A C C C    
+         B D D D D F    
+        G E E E E F F  
+         G G J J J F  
+        G H J H d I m
+           H H I I  
+              I    
+Apr 29
+              A            
+           J A A G        
+        D E J A A G G    
+         D E J J G F    
+        B D E H I F F  
+         B D E H I F  
+        B B H H I d m
+           C C C I  
+              C    
+Apr 30
+              A            
+           B A A G        
+        B B A A J G G    
+         B J J J G F    
+        D D D D H F F  
+         E E E E H F  
+        C C C H H I m
+           C d I I  
+              I    
+Apr 31
+              A            
+           H A A F        
+        J H A A F F D    
+         J H H I F D    
+        B J J C I D E  
+         B C C I D E  
+        B B C G I E m
+           G G d E  
+              G    
+May 1
+              G            
+           D d G G        
+        B E D G J J J    
+         B E D J H H    
+        B B E D H A H  
+         F F E I A A  
+        F F I I C A A
+           I C C m  
+              C    
+May 2
+              D            
+           B D d G        
+        B B D G G C C    
+         B D I I G C    
+        E E E E I I C  
+         A A H J F F  
+        A A A H J F F
+           H H J m  
+              J    
+May 3
+              B            
+           D B B B        
+        G d D E E E E    
+         G G D F F I    
+        G A J D F F I  
+         A A J H H I  
+        A A J H C H I
+           J C C m  
+              C    
+May 4
+              B            
+           G B B B        
+        G G d D D D D    
+         A G H H F I    
+        A A H J F F I  
+         A A H J F I  
+        E E E E J J I
+           C C C m  
+              C    
+May 5
+              B            
+           D B B B        
+        A A D d J J J    
+         A A D J F F    
+        H A H D F F G  
+         H H I I G G  
+        E E E E I I G
+           C C C m  
+              C    
+May 6
+              B            
+           A B B B        
+        I A A D d C C    
+         I A A D E C    
+        I H H J D E C  
+         I G H J D E  
+        G G H F J J E
+           G F F m  
+              F    
+May 7
+              B            
+           D B B B        
+        F F D J H d H    
+         F F D J H H    
+        A A A D J J G  
+         A A I I G G  
+        E E E E I I G
+           C C C m  
+              C    
+May 8
+              A            
+           G A A B        
+        G G A A B B B    
+         d G I I H H    
+        D D D D I I H  
+         F F J J J H  
+        F F J E E E E
+           C C C m  
+              C    
+May 9
+              B            
+           C B B B        
+        C C D D D D G    
+         C d I I G G    
+        E E E E I I G  
+         A A H J F F  
+        A A A H J F F
+           H H J m  
+              J    
+May 10
+              B            
+           C B B B        
+        G C C C J J J    
+         G G d J F F    
+        G D D D D F F  
+         E E E E A A  
+        I I H H A A A
+           I I H m  
+              H    
+May 11
+              A            
+           H A A B        
+        I H A A B B B    
+         I H H d F F    
+        I D D D D F F  
+         I G E E E E  
+        G G C C J J J
+           G C J m  
+              C    
+May 12
+              B            
+           A B B B        
+        I A A D D D D    
+         I A A H d H    
+        I F F J H H G  
+         I F F J G G  
+        E E E E J J G
+           C C C m  
+              C    
+May 13
+              A            
+           H A A G        
+        B H A A D G G    
+         B H H D G d    
+        B B I D J J J  
+         I I D J F F  
+        I E E E E F F
+           C C C m  
+              C    
+May 14
+              A            
+           G A A B        
+        G G A A B B B    
+         H G D D D D    
+        H d C E E E E  
+         H H C J F F  
+        I I C C J F F
+           I I J m  
+              J    
+May 15
+              A            
+           H A A G        
+        D H A A E G G    
+         D H H E G F    
+        B D d E J F F  
+         B D E I J F  
+        B B I I C J J
+           I C C m  
+              C    
+May 16
+              A            
+           F A A G        
+        D F F A A G G    
+         D F H H G I    
+        B D H d H J I  
+         B D J J J I  
+        B B E E E E I
+           C C C m  
+              C    
+May 17
+              A            
+           B A A G        
+        B B A A J G G    
+         B J J J G F    
+        D D D D d F F  
+         E E E E C F  
+        I I H H C C C
+           I I H m  
+              H    
+May 18
+              A            
+           B A A C        
+        B B A A C C C    
+         B D D D D H    
+        E E E E I d H  
+         F F I I H H  
+        F F I G J J J
+           G G J m  
+              G    
+May 19
+              B            
+           J B B B        
+        F F J D D D D    
+         F F J J H H    
+        E E E E H C C  
+         d G I I H C  
+        G G A A I I C
+           G A A m  
+              A    
+May 20
+              A            
+           H A A G        
+        J H A A D G G    
+         J H H D G I    
+        B J J D F F I  
+         B d D F F I  
+        B B E E E E I
+           C C C m  
+              C    
+May 21
+              A            
+           H A A D        
+        J H A A D F F    
+         J H H D F F    
+        G J J D B B B  
+         G G d I I B  
+        G E E E E I I
+           C C C m  
+              C    
+May 22
+              A            
+           G A A B        
+        G G A A B B B    
+         H G D D D D    
+        H E E E E F F  
+         H H I d F F  
+        C C C I J J J
+           C I J m  
+              I    
+May 23
+              B            
+           D B B B        
+        F F D E E E E    
+         F F D G H H    
+        A A A D G G H  
+         A A I G d H  
+        C C C I J J J
+           C I J m  
+              I    
+May 24
+              D            
+           B D H H        
+        B B D H I H G    
+         B D I I G G    
+        F F I A A A G  
+         F F J A A d  
+        J J J E E E E
+           C C C m  
+              C    
+May 25
+              B            
+           A B B B        
+        C A A D D D D    
+         C A A E H H    
+        C C I E F F H  
+         I I E F F H  
+        I d E G J J J
+           G G J m  
+              G    
+May 26
+              A            
+           D A A G        
+        I E D A A G G    
+         I E D J G F    
+        I H E D J F F  
+         I H E J B F  
+        H H d J B B B
+           C C C m  
+              C    
+May 27
+              B            
+           G B B C        
+        G G B D C C C    
+         F G D E H H    
+        F F D E H A H  
+         F D E J A A  
+        I I E d J A A
+           I I J m  
+              J    
+May 28
+              A            
+           B A A G        
+        B B C A A G G    
+         B C C C G F    
+        D D D D J F F  
+         E E E E J F  
+        I I H H d J J
+           I I H m  
+              H    
+May 29
+              A            
+           G A A J        
+        G G A A J B B    
+         F G C J D B    
+        F F H C J D B  
+         F H C C E D  
+        I I H H E d D
+           I I E m  
+              E    
+May 30
+              B            
+           A B B B        
+        I A A D D D D    
+         I A A J H H    
+        I J J J H C H  
+         I G F F E C  
+        G G F F E C C
+           G d E m  
+              E    
+May 31
+              A            
+           J A A G        
+        F F J A A G G    
+         F F J J G I    
+        D D D D B B I  
+         E E E E B I  
+        C C C H H B I
+           C H d m  
+              H    
+Jun 1
+              G            
+           A d G G        
+        B A A G J J J    
+         B A A J H H    
+        B B D D D D H  
+         F F C I I H  
+        F F C C C I I
+           E E E E  
+              m    
+Jun 2
+              B            
+           B B d C        
+        A A B J C C C    
+         A A F J H H    
+        G A F F J J H  
+         G G F I I H  
+        G D D D D I I
+           E E E E  
+              m    
+Jun 3
+              A            
+           D A A G        
+        I d D A A G G    
+         I F D H G B    
+        I F F D H B B  
+         I F H H B C  
+        E E E E J C C
+           J J J C  
+              m    
+Jun 4
+              A            
+           B A A G        
+        B B d A A G G    
+         B F F H G H    
+        I I F F H H J  
+         C I I J J J  
+        C C C D D D D
+           E E E E  
+              m    
+Jun 5
+              B            
+           A B B B        
+        I A A d H H C    
+         I A A H C C    
+        I F F J H C G  
+         I F F J G G  
+        D D D D J J G
+           E E E E  
+              m    
+Jun 6
+              A            
+           B A A G        
+        B B A A d G G    
+         B F F H G H    
+        I I F F H H J  
+         C I I J J J  
+        C C C D D D D
+           E E E E  
+              m    
+Jun 7
+              B            
+           C B B B        
+        I C C C H d G    
+         I J J H G G    
+        I F F J H H G  
+         I F F J A A  
+        D D D D A A A
+           E E E E  
+              m    
+Jun 8
+              A            
+           G A A B        
+        G G A A B B B    
+         d G D D D D    
+        C F F E E E E  
+         C F F I H H  
+        C C I I H J H
+           I J J J  
+              m    
+Jun 9
+              A            
+           B A A G        
+        B B A A H G G    
+         B d J H G I    
+        J J J C H H I  
+         F F C C C I  
+        F F D D D D I
+           E E E E  
+              m    
+Jun 10
+              A            
+           G A A B        
+        G G A A B B B    
+         F G d I C H    
+        F F I I C C H  
+         F I J C H H  
+        J J J D D D D
+           E E E E  
+              m    
+Jun 11
+              A            
+           B A A C        
+        B B A A C C C    
+         B F F d H H    
+        G F F J J J H  
+         G G J I I H  
+        G D D D D I I
+           E E E E  
+              m    
+Jun 12
+              A            
+           H A A B        
+        J H A A B B B    
+         J H H C d F    
+        G J J C C F F  
+         G G C I I F  
+        G D D D D I I
+           E E E E  
+              m    
+Jun 13
+              A            
+           B A A G        
+        B B A A H G G    
+         B F F H G d    
+        I I F F H H J  
+         C I I J J J  
+        C C C D D D D
+           E E E E  
+              m    
+Jun 14
+              A            
+           B A A C        
+        B B A A C C C    
+         B D D D D I    
+        G d E E E E I  
+         G G J J J I  
+        G H J H F F I
+           H H F F  
+              m    
+Jun 15
+              A            
+           B A A G        
+        B B A A J G G    
+         B J J J G I    
+        C H d H F F I  
+         C H H F F I  
+        C C D D D D I
+           E E E E  
+              m    
+Jun 16
+              A            
+           B A A C        
+        B B A A C C C    
+         B J J J F F    
+        H J H d F F G  
+         H H I I G G  
+        D D D D I I G
+           E E E E  
+              m    
+Jun 17
+              A            
+           B A A G        
+        B B A A J G G    
+         B J J J G I    
+        C F F H d H I  
+         C F F H H I  
+        C C D D D D I
+           E E E E  
+              m    
+Jun 18
+              A            
+           B A A C        
+        B B A A C C C    
+         B D D D D I    
+        G E E E E d I  
+         G G J J J I  
+        G H J H F F I
+           H H F F  
+              m    
+Jun 19
+              A            
+           B A A C        
+        B B A A C C C    
+         B G H H F I    
+        G G H J F F I  
+         d G H J F I  
+        D D D D J J I
+           E E E E  
+              m    
+Jun 20
+              A            
+           G A A B        
+        G G A A B B B    
+         H G H F F I    
+        C H H F F J I  
+         C d J J J I  
+        C C D D D D I
+           E E E E  
+              m    
+Jun 21
+              A            
+           B A A D        
+        B B A A D H H    
+         B F F D H I    
+        G F F D C H I  
+         G G d J C I  
+        G J J J C C I
+           E E E E  
+              m    
+Jun 22
+              A            
+           B A A C        
+        B B A A C C C    
+         B J J J F F    
+        G J H I I F F  
+         G G H d I I  
+        G H H D D D D
+           E E E E  
+              m    
+Jun 23
+              A            
+           B A A G        
+        B B A A H G G    
+         B C C H G I    
+        F F C J H H I  
+         F F C J d I  
+        D D D D J J I
+           E E E E  
+              m    
+Jun 24
+              A            
+           H A A B        
+        J H A A B B B    
+         J H H C F F    
+        G J J C C F F  
+         G G C I I d  
+        G D D D D I I
+           E E E E  
+              m    
+Jun 25
+              A            
+           B A A C        
+        B B A A C C I    
+         B J J C I I    
+        G H H J I F F  
+         G G H J F F  
+        G d H D D D D
+           E E E E  
+              m    
+Jun 26
+              A            
+           B A A C        
+        B B A A C C C    
+         B D D D D I    
+        E E E E I I G  
+         J J J I G G  
+        J H d H F F G
+           H H F F  
+              m    
+Jun 27
+              A            
+           B A A G        
+        B B A A J G G    
+         B J J J G I    
+        D D D D C C I  
+         F F H H C I  
+        F F H d H C I
+           E E E E  
+              m    
+Jun 28
+              A            
+           B A A C        
+        B B A A C C C    
+         B D D D D I    
+        E E E E I I G  
+         J J J I G G  
+        J F F H d H G
+           F F H H  
+              m    
+Jun 29
+              A            
+           B A A J        
+        B B A A J H H    
+         B F F J H I    
+        G F F C J H I  
+         G G C C C I  
+        G D D D D d I
+           E E E E  
+              m    
+Jun 30
+              A            
+           J A A G        
+        B D J A A G G    
+         B D J J G I    
+        B B D E C C I  
+         F F D E C I  
+        F F H H E C I
+           H d H E  
+              m    
+Jun 31
+              A            
+           J A A G        
+        F F J A A G G    
+         F F J J G I    
+        D D D D B B I  
+         E E E E B I  
+        C C C H H B I
+           C H d H  
+              m    
+Jul 1
+              B            
+           J d B G        
+        A A J B B G G    
+         A A J J G I    
+        C A D D D D I  
+         C E F F H I  
+        C C E F F H I
+           m E H H  
+              E    
+Jul 2
+              B            
+           B B d D        
+        E H B H D F F    
+         E H H D F F    
+        C E I D J J J  
+         C E I J A A  
+        C C I G A A A
+           m I G G  
+              G    
+Jul 3
+              B            
+           D B B B        
+        C d D E E E E    
+         C H D I A A    
+        C C H D I A A  
+         H H J I G A  
+        J J J F I G G
+           m F F G  
+              F    
+Jul 4
+              A            
+           B A A G        
+        B B d A A G G    
+         B J J J G I    
+        C J D D D D I  
+         C E F F H I  
+        C C E F F H I
+           m E H H  
+              E    
+Jul 5
+              B            
+           D B B B        
+        A A D d E C C    
+         A A D I E C    
+        H A H D I E C  
+         H H J I G E  
+        J J J F I G G
+           m F F G  
+              F    
+Jul 6
+              A            
+           B A A G        
+        B B A A d G G    
+         B J J J G I    
+        C J D D D D I  
+         C E F F H I  
+        C C E F F H I
+           m E H H  
+              E    
+Jul 7
+              A            
+           G A A D        
+        G G A A D d I    
+         H G H D I I    
+        B H H D I C C  
+         B E J F F C  
+        B B E J F F C
+           m E J J  
+              E    
+Jul 8
+              A            
+           G A A B        
+        G G A A B B B    
+         d G D F F I    
+        C J J D F F I  
+         C E J D H I  
+        C C E J D H I
+           m E H H  
+              E    
+Jul 9
+              A            
+           B A A D        
+        B B A A D H H    
+         B d G D H I    
+        C G G D J H I  
+         C E G J F I  
+        C C E J F F I
+           m E J F  
+              E    
+Jul 10
+              B            
+           G B B B        
+        G G D D D D J    
+         C G d J J J    
+        C C C E E E E  
+         F F A A H H  
+        F F A A H I H
+           m A I I  
+              I    
+Jul 11
+              A            
+           D A A G        
+        I E D A A G G    
+         I E D d G F    
+        I H E D J F F  
+         I H E B J F  
+        H H C C B J J
+           m C B B  
+              C    
+Jul 12
+              A            
+           H A A D        
+        E H A A D B B    
+         E H H D d B    
+        C E I D J J B  
+         C E I F F J  
+        C C I G F F J
+           m I G G  
+              G    
+Jul 13
+              A            
+           H A A G        
+        J H A A D G G    
+         J H H D G d    
+        B J J D C C C  
+         B E D I I C  
+        B B E F F I I
+           m E F F  
+              E    
+Jul 14
+              A            
+           B A A C        
+        B B A A C C C    
+         B D D D D I    
+        G d E E E E I  
+         G G F F H I  
+        G J J F F H I
+           m J H H  
+              J    
+Jul 15
+              A            
+           G A A J        
+        G G A A J F F    
+         D G E J F F    
+        B D d E J C C  
+         B D I E H C  
+        B B D I E H C
+           m I H H  
+              I    
+Jul 16
+              A            
+           H A A J        
+        D H A A J B B    
+         D H H J E B    
+        C D I d J E B  
+         C D I F F E  
+        C C I G F F E
+           m I G G  
+              G    
+Jul 17
+              A            
+           J A A G        
+        B B J A A G G    
+         B D J J G I    
+        C B D H d H I  
+         C E D H H I  
+        C C E D F F I
+           m E F F  
+              E    
+Jul 18
+              A            
+           B A A C        
+        B B A A C C C    
+         B D D D D I    
+        G E E E E d I  
+         G G F F H I  
+        G J J F F H I
+           m J H H  
+              J    
+Jul 19
+              D            
+           B D A A        
+        B B D A A A G    
+         B D F F G G    
+        I I F F J J G  
+         d I I H H J  
+        E E E E C H J
+           m C C H  
+              C    
+Jul 20
+              F            
+           D F F G        
+        B E D F H G G    
+         B E D H G I    
+        B B E D H H I  
+         C d E J A I  
+        C C C J A A I
+           m J A A  
+              J    
+Jul 21
+              A            
+           B A A G        
+        B B A A J G G    
+         B J J J G I    
+        F F D D D D I  
+         F F d H H I  
+        E E E E C H I
+           m C C H  
+              C    
+Jul 22
+              A            
+           H A A G        
+        J H A A D G G    
+         J H H D G I    
+        B J J D C C I  
+         B E D d C I  
+        B B E F F C I
+           m E F F  
+              E    
+Jul 23
+              B            
+           B B D E        
+        A A B D E H H    
+         A A D E H I    
+        G A D E C H I  
+         G G C C d I  
+        G J J C F F I
+           m J F F  
+              J    
+Jul 24
+              A            
+           H A A D        
+        E H A A D F F    
+         E H H D F F    
+        B E I D J J J  
+         B E I J C d  
+        B B I G C C C
+           m I G G  
+              G    
+Jul 25
+              A            
+           J A A G        
+        B D J A A G G    
+         B D J J G I    
+        B B D E C C I  
+         H H D E C I  
+        H d H F E C I
+           m F F E  
+              F    
+Jul 26
+              A            
+           G A A J        
+        G G A A J B B    
+         C G D J E B    
+        C C C D J E B  
+         F F I D H E  
+        F F d I D H E
+           m I H H  
+              I    
+Jul 27
+              A            
+           H A A D        
+        B H A A D F F    
+         B H H D F F    
+        B B I D J J J  
+         I I G J E C  
+        I G G d E C C
+           m G E C  
+              E    
+Jul 28
+              A            
+           G A A D        
+        G G A A D F F    
+         H G H D F F    
+        B H H D C C C  
+         B E J I I C  
+        B B E J d I I
+           m E J J  
+              E    
+Jul 29
+              B            
+           F B B B        
+        D F F E E E E    
+         D F A A J I    
+        C D A A A J I  
+         C D H H J I  
+        C C H G J d I
+           m H G G  
+              G    
+Jul 30
+              A            
+           G A A B        
+        G G A A B B B    
+         H G D D D D    
+        H E E E E C C  
+         H H J F F C  
+        J J J F F I C
+           m d I I  
+              I    
+Jul 31
+              A            
+           H A A G        
+        J H A A D G G    
+         J H H D G I    
+        B J J D F F I  
+         B E D F F I  
+        B B E C C C I
+           m E d C  
+              E    
+Aug 1
+              B            
+           A d B G        
+        J A A B B G G    
+         J A A C G I    
+        D J J C C C I  
+         D E F F H I  
+        m D E F F H I
+           D E H H  
+              E    
+Aug 2
+              B            
+           B B d C        
+        A A B D C C C    
+         A A D J J J    
+        E A D J H H G  
+         E D F H G G  
+        m E F F H I G
+           E F I I  
+              I    
+Aug 3
+              A            
+           B A A G        
+        J d B A A G G    
+         J B B C G I    
+        D J J C C C I  
+         D E F F H I  
+        m D E F F H I
+           D E H H  
+              E    
+Aug 4
+              A            
+           B A A G        
+        B B d A A G G    
+         B J J J G I    
+        D J E E E E I  
+         D F F H H I  
+        m D F F C H I
+           D C C H  
+              C    
+Aug 5
+              B            
+           A B B B        
+        D A A d H H C    
+         D A A H C C    
+        E D J J H C G  
+         E D F J G G  
+        m E F F J I G
+           E F I I  
+              I    
+Aug 6
+              A            
+           B A A G        
+        B B A A d G G    
+         B J J J G I    
+        D J E E E E I  
+         D F F H H I  
+        m D F F C H I
+           D C C H  
+              C    
+Aug 7
+              A            
+           H A A D        
+        J H A A D d I    
+         J H H D I I    
+        E J J D I B B  
+         E C C F F B  
+        m E C G F F B
+           E C G G  
+              G    
+Aug 8
+              A            
+           G A A B        
+        G G A A B B B    
+         d G C C C I    
+        D J J H C H I  
+         D E J H H I  
+        m D E J F F I
+           D E F F  
+              E    
+Aug 9
+              A            
+           B A A C        
+        B B A A C C C    
+         B d D D D D    
+        E E E E H H G  
+         J F F H G G  
+        m J F F H I G
+           J J I I  
+              I    
+Aug 10
+              A            
+           B A A G        
+        B B A A H G G    
+         B C d H G I    
+        D C C C H H I  
+         D E J F F I  
+        m D E J F F I
+           D E J J  
+              E    
+Aug 11
+              A            
+           H A A B        
+        D H A A B B B    
+         D H H d J I    
+        E D J J J G I  
+         E D F G G I  
+        m E F F C G I
+           E F C C  
+              C    
+Aug 12
+              A            
+           B A A D        
+        B B A A D C C    
+         B H H D d C    
+        E H I D J J C  
+         E H I F F J  
+        m E I G F F J
+           E I G G  
+              G    
+Aug 13
+              A            
+           B A A C        
+        B B A A C C C    
+         B D D D D d    
+        E E E E H H G  
+         J F F H G G  
+        m J F F H I G
+           J J I I  
+              I    
+Aug 14
+              A            
+           B A A C        
+        B B A A C C C    
+         B G D D D D    
+        E d G G J J J  
+         E G F J H H  
+        m E F F H I H
+           E F I I  
+              I    
+Aug 15
+              A            
+           B A A C        
+        B B A A C C C    
+         B G D D D D    
+        G G d E E E E  
+         J G F F H H  
+        m J F F H I H
+           J J I I  
+              I    
+Aug 16
+              A            
+           B A A J        
+        B B A A J C C    
+         B H H J D C    
+        E H I d J D C  
+         E H I F F D  
+        m E I G F F D
+           E I G G  
+              G    
+Aug 17
+              A            
+           B A A D        
+        B B A A D H H    
+         B C E D H I    
+        C C E D d H I  
+         C E J J J I  
+        m E J G F F I
+           G G F F  
+              G    
+Aug 18
+              A            
+           B A A C        
+        B B A A C C G    
+         B F J C G G    
+        D F F J E d G  
+         D F J E H H  
+        m D J E H I H
+           D E I I  
+              I    
+Aug 19
+              A            
+           B A A C        
+        B B A A C C C    
+         B D D D D I    
+        H H E E E E I  
+         d H J J J I  
+        m H J G F F I
+           G G F F  
+              G    
+Aug 20
+              A            
+           B A A G        
+        B B A A J G G    
+         B J J J G I    
+        D H H E C C I  
+         D d H E C I  
+        m D H F E C I
+           D F F E  
+              F    
+Aug 21
+              A            
+           B A A G        
+        B B A A J G G    
+         B J J J G I    
+        F F D D D D I  
+         F F d H H I  
+        m E E E E H I
+           C C C H  
+              C    
+Aug 22
+              A            
+           B A A C        
+        B B A A C C G    
+         B F F C G G    
+        D E F F J J G  
+         D E H d H J  
+        m D E H H I J
+           D E I I  
+              I    
+Aug 23
+              A            
+           B A A G        
+        B B A A H G G    
+         B C D H G I    
+        C C D E H H I  
+         C D E J d I  
+        m D E J F F I
+           E J F F  
+              J    
+Aug 24
+              A            
+           B A A D        
+        B B A A D F F    
+         B H H D F F    
+        E H I D J J J  
+         E H I J C d  
+        m E I G C C C
+           E I G G  
+              G    
+Aug 25
+              A            
+           J A A G        
+        B D J A A G G    
+         B D J J G I    
+        B B D E C C I  
+         H H D E C I  
+        m d H F E C I
+           H F F E  
+              F    
+Aug 26
+              A            
+           B A A C        
+        B B A A C C G    
+         B F D C G G    
+        E F F D J J G  
+         E F I D H J  
+        m E d I D H J
+           E I H H  
+              I    
+Aug 27
+              A            
+           B A A C        
+        B B A A C C C    
+         B F D D D D    
+        E F F J H H G  
+         E F J H G G  
+        m E J d H I G
+           E J I I  
+              I    
+Aug 28
+              A            
+           B A A G        
+        B B A A J G G    
+         B J J J G I    
+        D C C C F F I  
+         D E C F F I  
+        m D E H d H I
+           D E H H  
+              E    
+Aug 29
+              A            
+           B A A C        
+        B B A A C C C    
+         B F F H J I    
+        D E F F H J I  
+         D E H H J I  
+        m D E G J d I
+           D E G G  
+              G    
+Aug 30
+              A            
+           B A A D        
+        B B A A D F F    
+         B C C D F F    
+        E J C D H H G  
+         E J C H G G  
+        m E J J H I G
+           E d I I  
+              I    
+Aug 31
+              A            
+           B A A G        
+        B B A A H G G    
+         B C D H G I    
+        C C D E H H I  
+         C D E J F I  
+        m D E J F F I
+           E J d F  
+              J    
+Sep 1
+              G            
+           B d G G        
+        B B C G J J J    
+         B D C J F F    
+        m D C C E F F  
+         D A A E H H  
+        D A A E H I H
+           A E I I  
+              I    
+Sep 2
+              B            
+           B B d D        
+        J H B H D C C    
+         J H H D E C    
+        m J J D I E C  
+         F F I I A E  
+        F F I G A A E
+           G G A A  
+              G    
+Sep 3
+              B            
+           I B B B        
+        D d I E E E E    
+         D I A A A F    
+        m D I A A F F  
+         C D H J G F  
+        C C C H J G G
+           H H J G  
+              J    
+Sep 4
+              A            
+           H A A G        
+        J H d A A G G    
+         J H H B G I    
+        m J J B B B I  
+         D D D D F I  
+        E E E E F F I
+           C C C F  
+              C    
+Sep 5
+              B            
+           C B B B        
+        C C D d H F F    
+         C E D H F F    
+        m E J D H H G  
+         E A J D G G  
+        E A A J J I G
+           A A I I  
+              I    
+Sep 6
+              A            
+           H A A G        
+        J H A A d G G    
+         J H H B G I    
+        m J J B B B I  
+         D D D D F I  
+        E E E E F F I
+           C C C F  
+              C    
+Sep 7
+              A            
+           B A A J        
+        B B A A J d C    
+         B D E J C C    
+        m D F E J C G  
+         D F F E G G  
+        D H F H E I G
+           H H I I  
+              I    
+Sep 8
+              A            
+           G A A D        
+        G G A A D F F    
+         d G I D F F    
+        m I I D J J J  
+         I H H J E B  
+        C C C H E B B
+           C H E B  
+              E    
+Sep 9
+              B            
+           B B D E        
+        C C B D E F F    
+         C d D E F F    
+        m C D E H H G  
+         J J J H G G  
+        J A A A H I G
+           A A I I  
+              I    
+Sep 10
+              A            
+           B A A C        
+        B B A A C C G    
+         B D d C G G    
+        m D E E E E G  
+         D J J J H H  
+        D J F F H I H
+           F F I I  
+              I    
+Sep 11
+              B            
+           A B B B        
+        D A A E E E E    
+         D A A d F F    
+        m D J J F F G  
+         C D H J G G  
+        C C C H J I G
+           H H I I  
+              I    
+Sep 12
+              A            
+           B A A C        
+        B B A A C C C    
+         B D E H d H    
+        m D J E H H G  
+         D J F E G G  
+        D J F F E I G
+           J F I I  
+              I    
+Sep 13
+              A            
+           B A A G        
+        B B A A D G G    
+         B E J D G d    
+        m E J D F C C  
+         E J D F F C  
+        E H J H F I C
+           H H I I  
+              I    
+Sep 14
+              B            
+           C B B B        
+        C C D D D D G    
+         C A A A G G    
+        m d A A J J G  
+         E E E E F J  
+        I I H H F F J
+           I I H F  
+              H    
+Sep 15
+              A            
+           B A A C        
+        B B A A C C C    
+         B D E E E E    
+        m D d G J J J  
+         D G G J H H  
+        D F F G H I H
+           F F I I  
+              I    
+Sep 16
+              A            
+           B A A C        
+        B B A A C C C    
+         B D E E E E    
+        m D J d H H G  
+         D J F H G G  
+        D J F F H I G
+           J F I I  
+              I    
+Sep 17
+              A            
+           B A A C        
+        B B A A C C C    
+         B D E H H I    
+        m D E H d H I  
+         D E J J J I  
+        D E J G F F I
+           G G F F  
+              G    
+Sep 18
+              A            
+           B A A J        
+        B B A A J F F    
+         B D E J F F    
+        m D C E J d G  
+         D H C E G G  
+        D H C C E I G
+           H H I I  
+              I    
+Sep 19
+              A            
+           B A A C        
+        B B A A C C C    
+         B D D D D I    
+        m H E E E E I  
+         d H J J J I  
+        H H J G F F I
+           G G F F  
+              G    
+Sep 20
+              A            
+           J A A G        
+        F F J A A G G    
+         F F J J G I    
+        m H H D B B I  
+         H d H D B I  
+        E E E E D B I
+           C C C D  
+              C    
+Sep 21
+              A            
+           B A A C        
+        B B A A C C C    
+         B D E J J J    
+        m D E J H H G  
+         D E d H G G  
+        D E F F H I G
+           F F I I  
+              I    
+Sep 22
+              A            
+           B A A C        
+        B B A A C C G    
+         B D E C G G    
+        m D E J J J G  
+         D E J d H H  
+        D E F F H I H
+           F F I I  
+              I    
+Sep 23
+              A            
+           B A A C        
+        B B A A C C G    
+         B D E C G G    
+        m D F E J J G  
+         D F F E d J  
+        D H F H E I J
+           H H I I  
+              I    
+Sep 24
+              A            
+           G A A B        
+        G G A A B B B    
+         J G D D D D    
+        m J F E E E E  
+         J F F I I d  
+        J H F H C I I
+           H H C C  
+              C    
+Sep 25
+              A            
+           B A A C        
+        B B A A C C C    
+         B D D D D I    
+        m E E E E J I  
+         H H J J J I  
+        H d H G F F I
+           G G F F  
+              G    
+Sep 26
+              A            
+           B A A G        
+        B B A A I G G    
+         B D I I G F    
+        m D I E J F F  
+         D H H E J F  
+        D H d H E J J
+           C C C E  
+              C    
+Sep 27
+              A            
+           G A A B        
+        G G A A B B B    
+         J G D D D D    
+        m J C E E E E  
+         J C C C H H  
+        J F F d H I H
+           F F I I  
+              I    
+Sep 28
+              A            
+           G A A B        
+        G G A A B B I    
+         J G D B I I    
+        m J D E I C C  
+         J D E H H C  
+        J D E F d H C
+           E F F H  
+              F    
+Sep 29
+              A            
+           B A A G        
+        B B A A D G G    
+         B E J D G I    
+        m E J D F F I  
+         E J D F F I  
+        E H J H C d I
+           H H C C  
+              C    
+Sep 30
+              A            
+           G A A B        
+        G G A A B B B    
+         J G D F F I    
+        m J D E F F I  
+         J D E H H I  
+        J D E H C H I
+           E d C C  
+              C    
+Sep 31
+              A            
+           B A A G        
+        B B A A I G G    
+         B D I I G F    
+        m D I E J F F  
+         D H H E J F  
+        D H C C E J J
+           H C d E  
+              C    
+Oct 1
+              B            
+           D d B G        
+        m D C B B G G    
+         D C C C G F    
+        D A A E J F F  
+         A A A E J F  
+        I I H H E J J
+           I I H E  
+              H    
+Oct 2
+              B            
+           B B d D        
+        m J B I D C C    
+         J I I D E C    
+        J I H D H E C  
+         J G H H F E  
+        G G A A F F E
+           G A A F  
+              A    
+Oct 3
+              A            
+           H A A G        
+        m d H A A G G    
+         H H J B G I    
+        J J J B B B I  
+         D D D D F I  
+        E E E E F F I
+           C C C F  
+              C    
+Oct 4
+              A            
+           D A A G        
+        m D d A A G G    
+         D E H H G B    
+        D E H I H B B  
+         E I I J B C  
+        E I F F J C C
+           F F J C  
+              J    
+Oct 5
+              B            
+           D B B B        
+        m A D d J J J    
+         A A D J F F    
+        G A A D E F F  
+         G G C E H H  
+        G C C E H I H
+           C E I I  
+              I    
+Oct 6
+              A            
+           D A A G        
+        m D A A d G G    
+         D E H H G B    
+        D E H I H B B  
+         E I I J B C  
+        E I F F J C C
+           F F J C  
+              J    
+Oct 7
+              A            
+           D A A E        
+        m D A A E d G    
+         D F F E G G    
+        D F F E J J G  
+         B I I H H J  
+        B B B I I H J
+           C C C H  
+              C    
+Oct 8
+              A            
+           H A A J        
+        m H A A J B B    
+         d H H J D B    
+        E E E E J D B  
+         C C C F F D  
+        I I C G F F D
+           I I G G  
+              G    
+Oct 9
+              A            
+           D A A B        
+        m D A A B B B    
+         D d E E E E    
+        D F F J J C C  
+         F F H H J C  
+        I I H G H J C
+           I I G G  
+              G    
+Oct 10
+              A            
+           D A A B        
+        m D A A B B B    
+         D E d J J J    
+        D C E J H H G  
+         C C E H G G  
+        C F F E H I G
+           F F I I  
+              I    
+Oct 11
+              A            
+           D A A B        
+        m D A A B B B    
+         D C J d F F    
+        D C C J E F F  
+         C G J E H H  
+        G G J E H I H
+           G E I I  
+              I    
+Oct 12
+              A            
+           D A A B        
+        m D A A B B B    
+         D E H H d J    
+        D E H J J J G  
+         E F H C G G  
+        E F F C C I G
+           F C I I  
+              I    
+Oct 13
+              A            
+           D A A B        
+        m D A A B B B    
+         D E E E E d    
+        D F F J J C C  
+         F F H H J C  
+        I I H G H J C
+           I I G G  
+              G    
+Oct 14
+              A            
+           D A A B        
+        m D A A B B B    
+         D H H J F F    
+        D d G H J F F  
+         G G H J E C  
+        I I G J E C C
+           I I E C  
+              E    
+Oct 15
+              A            
+           D A A B        
+        m D A A B B G    
+         D E I B G G    
+        D E d I J J G  
+         E F I H H J  
+        E F F I C H J
+           F C C H  
+              C    
+Oct 16
+              A            
+           D A A B        
+        m D A A B B B    
+         D C E E E E    
+        D C C d J J J  
+         C G F J H H  
+        G G F F H I H
+           G F I I  
+              I    
+Oct 17
+              A            
+           D A A B        
+        m D A A B B B    
+         D E E E E F    
+        D C J J d F F  
+         C C C J G F  
+        I I H H J G G
+           I I H G  
+              H    
+Oct 18
+              A            
+           D A A B        
+        m D A A B B B    
+         D E E E E I    
+        D F F C C d I  
+         F F J C H I  
+        J J J G C H I
+           G G H H  
+              G    
+Oct 19
+              A            
+           D A A B        
+        m D A A B B B    
+         D C E E E E    
+        D C C C J J J  
+         d G F J H H  
+        G G F F H I H
+           G F I I  
+              I    
+Oct 20
+              A            
+           D A A B        
+        m D A A B B B    
+         D C E F F I    
+        D C C E F F I  
+         C d J E H I  
+        J J J G E H I
+           G G H H  
+              G    
+Oct 21
+              A            
+           D A A B        
+        m D A A B B B    
+         D E J F F I    
+        D E J F F G I  
+         E J d G G I  
+        E H J H C G I
+           H H C C  
+              C    
+Oct 22
+              A            
+           D A A B        
+        m D A A B B B    
+         D E G H H I    
+        D E J G G H I  
+         E J G d H I  
+        E J C C F F I
+           J C F F  
+              C    
+Oct 23
+              A            
+           D A A B        
+        m D A A B B G    
+         D F E B G G    
+        D F F E J J G  
+         C F H E d J  
+        C C C H E I J
+           H H I I  
+              I    
+Oct 24
+              A            
+           D A A B        
+        m D A A B B G    
+         D I I B G G    
+        D F F I I H G  
+         F F J J H d  
+        E E E E J H H
+           C C C J  
+              C    
+Oct 25
+              A            
+           D A A B        
+        m D A A B B B    
+         D C E E E E    
+        D C C C H H G  
+         J J J H G G  
+        J d F F H I G
+           F F I I  
+              I    
+Oct 26
+              A            
+           D A A B        
+        m D A A B B B    
+         D E E E E I    
+        D H H C C C I  
+         H G H J C I  
+        G G d J F F I
+           G J F F  
+              J    
+Oct 27
+              A            
+           D A A B        
+        m D A A B B B    
+         D C E E E E    
+        D C C C H H G  
+         J J J H G G  
+        J F F d H I G
+           F F I I  
+              I    
+Oct 28
+              A            
+           D A A B        
+        m D A A B B B    
+         D E I I H H    
+        D E F F I I H  
+         E F F J G H  
+        E J J J d G G
+           C C C G  
+              C    
+Oct 29
+              A            
+           D A A B        
+        m D A A B B B    
+         D E C H J I    
+        D E C C H J I  
+         E C H H J I  
+        E F F G J d I
+           F F G G  
+              G    
+Oct 30
+              A            
+           D A A B        
+        m D A A B B B    
+         D E I I H H    
+        D E C C I I H  
+         E F C J G H  
+        E F F C J G G
+           F d J G  
+              J    
+Oct 31
+              A            
+           D A A G        
+        m D A A H G G    
+         D E B H G I    
+        D E B B H H I  
+         E B C J F I  
+        E C C J F F I
+           C J d F  
+              J    
+Nov 1
+              G            
+           m d G G        
+        A A A G J J J    
+         A A B J F F    
+        C B B D E F F  
+         C B D E H H  
+        C C D E H I H
+           D E I I  
+              I    
+Nov 2
+              D            
+           m D d G        
+        B B D F F G G    
+         B D F F G I    
+        H B H J J J I  
+         H H J A A I  
+        E E E E A A I
+           C C C A  
+              C    
+Nov 3
+              A            
+           m A A B        
+        I d A A B B B    
+         I D D D D F    
+        I E E E E F F  
+         I H H J G F  
+        C C C H J G G
+           C H J G  
+              J    
+Nov 4
+              B            
+           m B B B        
+        A A d D D D D    
+         A A E E E E    
+        G A C C J J J  
+         G G C J H H  
+        G F F C H I H
+           F F I I  
+              I    
+Nov 5
+              B            
+           m B B B        
+        C C D d J J J    
+         C E D J A A    
+        G C E D A A A  
+         G G E D H H  
+        G F F E H I H
+           F F I I  
+              I    
+Nov 6
+              B            
+           m B B B        
+        C C C J d H H    
+         F C J D H I    
+        F F J E D H I  
+         F G J E D I  
+        G G A A E D I
+           G A A E  
+              A    
+Nov 7
+              B            
+           m B B B        
+        A A D E H d H    
+         A A D E H H    
+        G A J D E C C  
+         G G J D E C  
+        G F F J J I C
+           F F I I  
+              I    
+Nov 8
+              B            
+           m B B B        
+        C C C D D D D    
+         d C E F F I    
+        A A A E F F I  
+         A A J E H I  
+        J J J G E H I
+           G G H H  
+              G    
+Nov 9
+              B            
+           m B B B        
+        C C D E E E E    
+         C d D A A I    
+        H C H D A A I  
+         H H J D A I  
+        J J J G F F I
+           G G F F  
+              G    
+Nov 10
+              A            
+           m A A B        
+        D E A A B B B    
+         D E d J J J    
+        C D E J H H G  
+         C D E H G G  
+        C C F F H I G
+           F F I I  
+              I    
+Nov 11
+              A            
+           m A A B        
+        J J A A B B B    
+         D J E d F F    
+        C D J E F F G  
+         C D H E G G  
+        C C D H E I G
+           H H I I  
+              I    
+Nov 12
+              B            
+           m B B B        
+        A A A D D D D    
+         A A J H d H    
+        J J J E H H G  
+         F F E C G G  
+        F F E C C I G
+           E C I I  
+              I    
+Nov 13
+              A            
+           m A A B        
+        J J A A B B B    
+         D J E F F d    
+        C D J E F F G  
+         C D H E G G  
+        C C D H E I G
+           H H I I  
+              I    
+Nov 14
+              A            
+           m A A B        
+        I I A A B B G    
+         H I I B G G    
+        H d D D D D G  
+         H H J J F F  
+        E E E E J F F
+           C C C J  
+              C    
+Nov 15
+              A            
+           m A A B        
+        I I A A B B B    
+         F I I D H H    
+        F F d D H E H  
+         F G D J E C  
+        G G D J E C C
+           G J E C  
+              J    
+Nov 16
+              A            
+           m A A B        
+        C C A A B B B    
+         C D E E E E    
+        G C D d J J J  
+         G G D J H H  
+        G F F D H I H
+           F F I I  
+              I    
+Nov 17
+              B            
+           m B B B        
+        A A J D D D D    
+         A A J E H I    
+        C A J E d H I  
+         C J E H H I  
+        C C E G F F I
+           G G F F  
+              G    
+Nov 18
+              A            
+           m A A B        
+        I I A A B B G    
+         H I I B G G    
+        H D D D D d G  
+         H H J J F F  
+        E E E E J F F
+           C C C J  
+              C    
+Nov 19
+              A            
+           m A A D        
+        F F A A D B B    
+         F F H D E B    
+        J J H D C E B  
+         d J H H C E  
+        I I J G C C E
+           I I G G  
+              G    
+Nov 20
+              B            
+           m B B B        
+        D D D D C C C    
+         A A J J J C    
+        A A J E E E E  
+         A d H H F F  
+        I I H G H F F
+           I I G G  
+              G    
+Nov 21
+              A            
+           m A A B        
+        D J A A B B B    
+         D J E E E E    
+        C D J J H H G  
+         C D d H G G  
+        C C F F H I G
+           F F I I  
+              I    
+Nov 22
+              A            
+           m A A B        
+        F F A A B B B    
+         F F I I H H    
+        D D D D I I H  
+         J J J d G H  
+        J E E E E G G
+           C C C G  
+              C    
+Nov 23
+              A            
+           m A A D        
+        F F A A D B B    
+         F F J D E B    
+        J J J D H E B  
+         C C C H d E  
+        I I C G H H E
+           I I G G  
+              G    
+Nov 24
+              B            
+           m B B B        
+        C F F D D D D    
+         C F F E A A    
+        C C I E A A A  
+         I I E J G d  
+        I H E H J G G
+           H H J G  
+              J    
+Nov 25
+              A            
+           m A A B        
+        C C A A B B B    
+         C J D D D D    
+        G C J E E E E  
+         G G J J H H  
+        G d F F H I H
+           F F I I  
+              I    
+Nov 26
+              B            
+           m B B B        
+        D D D D C C C    
+         A A E F F C    
+        A A A E F F G  
+         J J J E G G  
+        J H d H E I G
+           H H I I  
+              I    
+Nov 27
+              A            
+           m A A B        
+        C C A A B B B    
+         C J D D D D    
+        G C J E E E E  
+         G G J J H H  
+        G F F d H I H
+           F F I I  
+              I    
+Nov 28
+              A            
+           m A A B        
+        F F A A B B B    
+         F F D D D D    
+        G E E E E C C  
+         G G J J J C  
+        G H J H d I C
+           H H I I  
+              I    
+Nov 29
+              A            
+           m A A B        
+        F F A A B B B    
+         F F D D D D    
+        E E E E J J J  
+         C C C J H H  
+        I I C G H d H
+           I I G G  
+              G    
+Nov 30
+              A            
+           m A A B        
+        I C A A B B B    
+         I C D D D D    
+        I C C E E E E  
+         I G J J F F  
+        G G H H J F F
+           G d H J  
+              H    
+Nov 31
+              B            
+           m B B B        
+        C D D D D H H    
+         C F F E H I    
+        C C F F E H I  
+         A A J J E I  
+        A A A G J E I
+           G G d J  
+              G    
+Dec 1
+              m            
+           A d F F        
+        I A A F F B B    
+         I A A D E B    
+        I H H J D E B  
+         I G H J D E  
+        G G H J C D E
+           G J C C  
+              C    
+Dec 2
+              m            
+           A A d B        
+        I A A A B B B    
+         I D D D D F    
+        I E E E E F F  
+         I H H J G F  
+        C C C H J G G
+           C H J G  
+              J    
+Dec 3
+              m            
+           A A I I        
+        B d A A D I I    
+         B H A D J F    
+        B B H D J F F  
+         H H D J G F  
+        E E E E J G G
+           C C C G  
+              C    
+Dec 4
+              m            
+           B B B C        
+        F F d B C C C    
+         F F D D D D    
+        E E E E H H G  
+         J J J H G G  
+        J A A A H I G
+           A A I I  
+              I    
+Dec 5
+              m            
+           A B B B        
+        J A A d B C C    
+         J A A D E C    
+        G J J D F E C  
+         G G D F F E  
+        G H D H F I E
+           H H I I  
+              I    
+Dec 6
+              m            
+           A A I I        
+        B A A A d I I    
+         B H D D D D    
+        B B H E E E E  
+         H H J C F F  
+        J J J G C F F
+           G G C C  
+              G    
+Dec 7
+              m            
+           A B B B        
+        I A A D B d G    
+         I A A D G G    
+        I H J E D C G  
+         I H J E D C  
+        H H J F E C C
+           J F F E  
+              F    
+Dec 8
+              m            
+           B B B D        
+        H H I B D F F    
+         d H I D F F    
+        G H I D J J J  
+         G G I J E C  
+        G A A A E C C
+           A A E C  
+              E    
+Dec 9
+              m            
+           A A H G        
+        D A A A H G G    
+         D d H H G I    
+        B D J E C C I  
+         B D J E C I  
+        B B J F E C I
+           J F F E  
+              F    
+Dec 10
+              m            
+           A A I I        
+        B A A A D I I    
+         B H d D J F    
+        B B H D J F F  
+         H H D J G F  
+        E E E E J G G
+           C C C G  
+              C    
+Dec 11
+              m            
+           A A I I        
+        F F A A G I I    
+         F F A d G G    
+        D D D D G B B  
+         J J J H H B  
+        J E E E E H B
+           C C C H  
+              C    
+Dec 12
+              m            
+           A A D B        
+        I A A D B B B    
+         I A D E d F    
+        I H D E J F F  
+         I H E C J F  
+        H H E G C J J
+           G G C C  
+              G    
+Dec 13
+              m            
+           A A I I        
+        G A A A J I I    
+         G G H H J d    
+        G B H D H J J  
+         B B B D F F  
+        E E E E D F F
+           C C C D  
+              C    
+Dec 14
+              m            
+           A A H G        
+        I A A A H G G    
+         I B H H G F    
+        I d B D J F F  
+         I B B D J F  
+        E E E E D J J
+           C C C D  
+              C    
+Dec 15
+              m            
+           A A F F        
+        I A A A F F G    
+         I H J J G G    
+        I H d D J B G  
+         I H H D J B  
+        E E E E D B B
+           C C C D  
+              C    
+Dec 16
+              m            
+           A A A B        
+        C C A A B B B    
+         C D E E E E    
+        G C D d J J J  
+         G G D J H H  
+        G F F D H I H
+           F F I I  
+              I    
+Dec 17
+              m            
+           A A D B        
+        E A A D B B B    
+         E A D H H I    
+        C E D H d H I  
+         C E J J J I  
+        C C J G F F I
+           G G F F  
+              G    
+Dec 18
+              m            
+           A A F F        
+        D A A A F F G    
+         D B B B G G    
+        C D J B E d G  
+         C D J E H H  
+        C C J E H I H
+           J E I I  
+              I    
+Dec 19
+              m            
+           A A I I        
+        G A A A B I I    
+         G G B B F F    
+        G H J B D F F  
+         d H J D E C  
+        H H J D E C C
+           J D E C  
+              E    
+Dec 20
+              m            
+           A A H B        
+        I A A H B B B    
+         I A G H H F    
+        I G G D J F F  
+         I d G D J F  
+        E E E E D J J
+           C C C D  
+              C    
+Dec 21
+              m            
+           A A A B        
+        D J A A B B B    
+         D J E E E E    
+        C D J J H H G  
+         C D d H G G  
+        C C F F H I G
+           F F I I  
+              I    
+Dec 22
+              m            
+           A A F F        
+        G A A A F F J    
+         G G I J J J    
+        G I I D D D D  
+         I H H d E B  
+        C C C H E B B
+           C H E B  
+              E    
+Dec 23
+              m            
+           A A A D        
+        F F A A D B B    
+         F F J D E B    
+        J J J D H E B  
+         C C C H d E  
+        I I C G H H E
+           I I G G  
+              G    
+Dec 24
+              m            
+           A A D B        
+        I A A D B B B    
+         I A D E F F    
+        I H D E J F F  
+         I H E C J d  
+        H H E G C J J
+           G G C C  
+              G    
+Dec 25
+              m            
+           A A A B        
+        C C A A B B B    
+         C J D D D D    
+        G C J E E E E  
+         G G J J H H  
+        G d F F H I H
+           F F I I  
+              I    
+Dec 26
+              m            
+           A A F F        
+        I A A A F F G    
+         I D J J G G    
+        I H D E J B G  
+         I H D E J B  
+        H H d D E B B
+           C C C E  
+              C    
+Dec 27
+              m            
+           A A F F        
+        I B A A F F J    
+         I B A J J J    
+        I B B D D D D  
+         I G H H E C  
+        G G H d E C C
+           G H E C  
+              E    
+Dec 28
+              m            
+           A A I I        
+        B A A A J I I    
+         B J J J H H    
+        B B D D D D H  
+         E E E E G H  
+        C C C F d G G
+           C F F G  
+              F    
+Dec 29
+              m            
+           A A A B        
+        F F A A B B B    
+         F F D D D D    
+        E E E E J J J  
+         C C C J H H  
+        I I C G H d H
+           I I G G  
+              G    
+Dec 30
+              m            
+           A A A B        
+        I C A A B B B    
+         I C D D D D    
+        I C C E E E E  
+         I G J J F F  
+        G G H H J F F
+           G d H J  
+              H    
+Dec 31
+              m            
+           A A F F        
+        G A A A F F J    
+         G G I J J J    
+        G I I D D D D  
+         I E E E E B  
+        C C C H H B B
+           C H d B  
+              H    
