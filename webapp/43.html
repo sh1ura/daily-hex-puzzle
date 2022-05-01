@@ -1,0 +1,105 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+  <head>
+    <meta http-equiv="content-type" content="text/html;charset=utf-8">
+    <meta name="viewport" content="width=520,user-scalable=yes" />
+  </head>
+  <script>  
+    const map = [
+	[                         "NON","NON","Dec","NON","NON",  "" ,  "" ,  "" ,  ""  ],
+	[                      "NON","Nov", "1" , "2" ,"Jan","NON",  "" ,  "" ,  ""  ],
+	[                   "Oct", "3" , "4" , "5" , "6" , "7" ,"Feb",  "" ,  ""  ],
+	[                "NON", "8" , "9" , "10", "11", "12", "13","NON",  ""  ],
+	[             "NON","Sep", "14", "15", "16", "17", "18","Mar","NON" ],
+	[            "" ,"NON", "19", "20", "21", "22", "23", "24","NON" ],
+	[         "" ,  "" ,"Aug", "25", "26", "27", "28", "29","Apr" ],
+	[      "" ,  "" ,  "" ,"NON","Jul", "30", "31","May","NON" ],
+	[   "" ,  "" ,  "" ,  "" ,"NON","NON","Jun","NON","NON" ]
+    ];
+
+    var origPiece = [ // pattern of pieces  
+	[{ p: [  [1, 1, 0],
+		[1, 1, 1]],
+	   x:3, y:2
+	 }],
+	[{ p: [  [1, 0, 0],
+		[1, 1, 1]],
+	   x:3, y:2
+	 }],
+	[{ p: [ [1, 0, 0],
+	       [1, 1, 1]],
+	   x:3, y:2
+	 }],
+	[{ p: [[1, 1, 1, 1]],
+	   x:4, y:1
+	 }],
+	[{ p: [[1, 1, 1, 1]],
+	   x:4, y:1
+	 }],
+	[{ p: [ [1, 1],
+	       [1, 1]],
+	   x:2, y:2
+	 }],
+	[{ p: [  [0, 1, 0],
+	        [1, 1, 0],
+	       [0, 0, 1]],
+	   x:3, y:3
+	 }],
+	[{ p: [ [1, 1, 0],
+	       [1, 0, 1]],
+	   x:3, y:2
+	 }],
+	[{ p: [  [0, 1],
+	        [1, 1],
+	       [1, 0]],
+	   x:2, y:3
+	 }],
+	[{ p: [ [0, 0, 1],
+	       [1, 1, 1]],
+	   x:3, y:2
+	 }],
+    ];
+
+    const rotate = false;
+    var flip = "both"; // use both side of pieces
+    function flipSet() {
+	flip = document.getElementById("side").value;
+    }
+  </script> 
+  <script type="text/javascript" src="solverlib.js"></script>
+  <body>
+    <center>
+      <H2>
+	Daily Hexagonal Puzzle solver
+      </H2>
+      <H3>
+	(43 cells ver.1)
+      </H3>
+      <select id="month">
+	<option value="Jan">January</option>
+	<option value="Feb">February</option>
+	<option value="Mar">March</option>
+	<option value="Apr">April</option>
+	<option value="May">May</option>
+	<option value="Jun">June</option>
+	<option value="Jul">July</option>
+	<option value="Aug">August</option>
+	<option value="Sep">September</option>
+	<option value="Oct">October</option>
+	<option value="Nov">November</option>
+	<option value="Dec">December</option>
+      </select>
+      <input size="4" id="date" value="1"></input>
+      <select id="side" onchange="flipSet()">
+	<option value="both">use both sides</option>
+	<option value="front">front side only</option>
+	<option value="back">back side only</option>
+      </select>
+      <button onclick="solve()">solve</button>
+      <br>
+      Number of shown pieces <input id="limit" type="range" min="1" value="1" onchange="redraw()" disabled>
+      <br>
+      <canvas id="canvas" width="500" height="500"></canvas>
+    </center>
+  </body>
+</html>
